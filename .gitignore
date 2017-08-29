@@ -1,0 +1,7 @@
+*.pyc
+*_
+__pycache__
+spentenv
+db.sqlite
+/static
+.DS_Store
